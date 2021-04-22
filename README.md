@@ -4,7 +4,7 @@ C++ header for creating and editing simple databases.
 
 useful orders:
 
-#include "DataBase.h"                                           //include header
+#include "BaumDB.h"                                           //include header
 
 newDB("NameOfYourDataBase");                                    //creates new database
 
